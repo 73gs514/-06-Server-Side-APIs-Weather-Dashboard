@@ -17,4 +17,4 @@
 ![Screenshot](./images/Screenshot2.png)
 
 ## Link
-* [Work Day Scheduler](https://73gs514.github.io/Server-Side-APIs-Weather-Dashboard/)
+* [Weather Dashboard](https://73gs514.github.io/Server-Side-APIs-Weather-Dashboard/)
